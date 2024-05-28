@@ -1,0 +1,11 @@
+h3
+{
+    color: blueviolet;
+    background-color: rgb(207, 237, 36);
+    font-size: 20px;
+    font-style: normal;
+    text-align: left;
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 50px;
+}
